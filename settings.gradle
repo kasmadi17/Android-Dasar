@@ -1,0 +1,2 @@
+rootProject.name = "Kelas Android 1"
+include ':app'

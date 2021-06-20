@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kelas Android 1</string>
+    <string name="cybernetix">Cybernetix</string>
+    <string name="start_activity">Mulai aktivitas</string>
+    <string name="intent_implicit">Intent Implisit</string>
+    <string name="activity_2">Activity 2</string>
+</resources>
